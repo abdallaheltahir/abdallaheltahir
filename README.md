@@ -1,6 +1,6 @@
 # Hi, I'm Abdallah 👋
 
-Computer Science student (Honours, specialising in Artificial Intelligence). I finished my first year building projects across programming, databases, networking, systems analysis and AI. Here is what I made.
+Computer Science student (Honours, specialising in Artificial Intelligence). I finished my first year building projects across programming, databases, networking, systems analysis and AI which were my university first year modules assignments. Here is what I made.
 
 ## Projects
 
