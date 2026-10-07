@@ -37,4 +37,4 @@ Computer Science student (Honours, specialising in Artificial Intelligence). I f
 
 ## Contact
 
-📧 [your email] · 🔗 [your LinkedIn link]
+📧 abdallaheltahirbussiness@gmail.com · 🔗 www.linkedin.com/in/abdallah-eltahir-431aa7392
